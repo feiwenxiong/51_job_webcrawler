@@ -15,3 +15,7 @@ purpose : auto get the infos for job you want to apply， including working plac
 3.I set Shenzhen as default city, salary more than 10 million RMB as default salary expectation.
 
 目标城市：深圳  月薪：1w+
+
+
+special :
+using *selenium* to auto-click and perform auto_next page. 
