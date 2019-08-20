@@ -19,3 +19,5 @@ purpose : auto get the infos for job you want to apply， including working plac
 
 special :
 using *selenium* to auto-click and perform auto_next page. 
+
+using lxml package to get the xpath of etree
